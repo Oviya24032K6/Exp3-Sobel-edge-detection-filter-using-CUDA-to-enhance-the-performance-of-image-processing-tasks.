@@ -1,7 +1,9 @@
 # Exp 3 Sobel edge detection filter using CUDA to enhance the performance of image processing tasks
 
-### ENTER YOUR NAME: OVIYA P
+###  NAME: OVIYA P
 ### REGISTER NO: 212223110033
+### DATE : 25-09-2025
+
 
 ## Background: 
   - The Sobel operator is a popular edge detection method that computes the gradient of the image intensity at each pixel. It uses convolution with two kernels to determine the gradient in both the x and y directions. 
